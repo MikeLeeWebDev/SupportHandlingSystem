@@ -1,7 +1,7 @@
 # Micke Ly WIN22
 Ifall mina DB filer inte funkar, så har jag:
 
-Usertypes:
+UserTypes:
 
  1. Admin
  2. Customer Support
