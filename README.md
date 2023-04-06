@@ -12,3 +12,5 @@ StatusTypes:
  1. Submitted
  2. In Progress
  3. Solved
+
+När du loggar in, beroende på vilket UserType kontot har, så kommer du se olika menyer.
